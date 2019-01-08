@@ -1,2 +1,2 @@
 # React-hooks
-Learning react hooks react version 16.7 alpha 
+A simple projects that focuses on react hooks available on React v16.7 alpha
